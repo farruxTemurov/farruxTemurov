@@ -6,7 +6,7 @@
 
 <h3 align="center">I'm a passionate programmer who is currently enrolled in Caltech Coding Bootcamp. I'm continuously honing my coding skills and seeking new opportunities to contribute to society. I remain dedicated to strengthening my expertise and expanding my knowledge in the field.</h3>
 
-- 🌱 I’m currently learning **Java, Back-end technologies**
+- 🌱 I’m currently learning **Java and Back-end technologies**
 - 💞️ I’m looking to collaborate on creative and state-of-the-art projects
 
 - 📫  How to reach me **tfarrux70@gmail.com**
