@@ -37,5 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farruxTemurov&show_icons=true&locale=en" alt="farruxTemurov" /></p>
 
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farruxTemurov&" alt="farruxTemurov" /></p>
+<p><img align="center" src="github-readme-streak-stats.herokuapp.com/?user=farruxTemurov&" alt="farruxTemurov" /></p>
 <br />
