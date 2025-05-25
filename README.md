@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?front=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3500&lines=Welcome+to+my+Github+👋;I'm+Farrux+Temurov!;" />
 </h1>
 
-<h3 align="center">I'm a passionate programmer who is currently enrolled in Caltech Coding Bootcamp. I'm continuously honing my coding skills and seeking new opportunities to contribute to society. I remain dedicated to strengthening my expertise and expanding my knowledge in the field.</h3>
+<h3 align="center">I'm a passionate full-stack developer and a graduate of the Caltech Coding BootCamp. I thrive on building practical solutions, constantly improving my coding skills, and exploring new opportunities to contribute through technology.</h3>
 
-- 🌱 I’m currently learning **Java and Back-end technologies**
-- 💞️ I’m looking to collaborate on creative and state-of-the-art projects
-
-- 📫  How to reach me **tfarrux70@gmail.com**
-- ⚡ Fun fact **I do Street Workout**
+- 🌱 I’m currently sharpening my skills in **Java, Spring Boot, and scalable back-end systems**
+- 💻 Proficient in **MERN Stack, REST APIs, SQL, Java, and Microservices**
+- 💞️ I’m looking to collaborate on creative and impactful full-stack projects
+- 📫 How to reach me: **tfarrux70@gmail.com**
+- ⚡ Fun fact: **I do Street Workout**
 
 
 <h3 align="left">Connect with me:</h3>
