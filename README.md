@@ -36,6 +36,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farruxTemurov&show_icons=true&locale=en" alt="farruxTemurov" /></p>
 
-<br />
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=farruxTemurov" alt="farruxTemurov" /></p>
-<br />
